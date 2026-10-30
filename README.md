@@ -69,4 +69,13 @@ Gosto de transformar dado bruto em decisão: do ETL e da modelagem dimensional a
 
 </details>
 
+## 📫 Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/ruan-garcia-55180a2a4)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruandg234@gmail.com)
+
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:0D1B2A&height=110&section=footer"/>
