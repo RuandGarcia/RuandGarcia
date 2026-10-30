@@ -55,7 +55,7 @@ Gosto de transformar dado bruto em decisão: do ETL e da modelagem dimensional a
 
 | Projeto | O que é | Tecnologias |
 | --- | --- | --- |
-| 🥈 [**LocalOps**](https://github.com/RuandGarcia/LocalOps) | Copiloto de AIOps que filtra o ruído de alarmes (AUC 0,916), prevê a carga do plantão em D+1/D+7 e explica cada número com SHAP. **2º lugar no FIAP NEXT 2026** | Python, ML, SHAP, FastAPI, React |
+| 🥈 [**LocalOps**](https://github.com/RuandGarcia/LocalOps) | Copiloto de AIOps que filtra o ruído de alarmes (AUC 0,916), prevê a carga do plantão em D+1/D+7 e explica cada número com SHAP. **2º lugar no FIAP NEXT 2026**. [Abrir o painel](https://localops-ten.vercel.app) | Python, ML, SHAP, FastAPI, React |
 | 🏗️ [**Data Warehouse**](https://github.com/RuandGarcia/melhores-compras-data-warehouse) | Modelagem em estrela, snowflake e constelação, DDL para Oracle e SQL Server, banco em nuvem por Azure CLI e ETL em Python | SQL, Oracle, Azure, AWS RDS |
 | 👁️ [**Centros de retirada**](https://github.com/RuandGarcia/melhores-compras-centros-retirada) | Reconhecimento facial com 100% de acerto na validação cruzada e clusterização K-Means para decidir quantos centros construir | OpenCV, scikit-learn |
 | 🤖 [**WorkBalance AI**](https://github.com/RuandGarcia/workbalance-ai) | Agente de IA no WhatsApp que organiza a agenda para prevenir burnout, com análise de dados dos fatores de risco | n8n, OpenAI, Python |
