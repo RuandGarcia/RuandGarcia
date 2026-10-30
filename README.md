@@ -13,6 +13,7 @@ Sou **Analista de Informações Gerenciais na Cogna Educação**, onde trabalho 
 Gosto de transformar dado bruto em decisão: do ETL e da modelagem dimensional até modelos de machine learning e agentes de IA que ajudam pessoas a agir mais rápido.
 
 - 🥈 **2º lugar no FIAP NEXT 2026** com o [LocalOps](https://github.com/RuandGarcia/LocalOps), um copiloto de AIOps para o Challenge Locaweb
+- 🌐 Portfólio: [ruandgarcia.github.io](https://ruandgarcia.github.io)
 - 📍 São Paulo, Brasil
 
 ## 🛠️ Stack
@@ -73,6 +74,7 @@ Gosto de transformar dado bruto em decisão: do ETL e da modelagem dimensional a
 
 <div align="center">
 
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-1E90FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://ruandgarcia.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/ruan-garcia-55180a2a4)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruandg234@gmail.com)
 
